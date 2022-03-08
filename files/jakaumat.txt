@@ -1,0 +1,3 @@
+rauhallinen 50 10
+normaali 10 3
+ruuhka 3 2
